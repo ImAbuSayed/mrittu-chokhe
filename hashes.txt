@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mrittu Chokhe
+
+This log tracks the cryptographic history and versioning for the song **Mrittu Chokhe** (mrittu-chokhe).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T05:26:07.632410 | `v1` | `4a3037e640bb0f0da71e665360598c5b6c699ecd3e1eee201eb82ecfbe6a8327` | `73863bad3c326c281e8ccd3a128d45455a508a07d8113452f49e651d8ae5ab1f` | `2026-05-16_mrittu-chokhe-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

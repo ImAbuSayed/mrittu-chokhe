@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mrittu-chokhe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Mrittu Chokhe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mrittu-chokhe/) |
+| **Get License** | [Get License For Mrittu Chokhe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mrittu-chokhe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4a3037e640bb0f0da71e665360598c5b6c699ecd3e1eee201eb82ecfbe6a8327` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
