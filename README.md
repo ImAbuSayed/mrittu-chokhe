@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mrittu-chokhe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Mrittu Chokhe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mrittu-chokhe/) |
+| **Get License** | [Secure Licensing Rights for Mrittu Chokhe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mrittu-chokhe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> মৃত্যু চোখে খুঁজি আমি তোমার চেনা ঘ্রাণ
+> অন্ধকারেও জাগে আজো প্রেমের অভিমান
+> নিস্তব্ধ এই রাতের বুকে বিষণ্ন কোলাহল
+> অবুঝ হাওয়ায় ভাসে শুধু আমার চোখের জল
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
